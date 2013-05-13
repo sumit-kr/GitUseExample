@@ -30,4 +30,9 @@
 - (IBAction)clickTheButton:(id)sender {
     NSLog(@"Just for an example");
 }
+
+- (IBAction)clickme:(id)sender {
+    
+    NSLog(@"I am Clicked");
+}
 @end
